@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-hapi",
+  "version": "1.0.0",
+  "description": "A simple hapi.js app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "praveen@hasura.io",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
+}
